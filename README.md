@@ -3,7 +3,9 @@
 STEP1 : install python
 #Run the following commands on your terminal
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
 brew install python
+
 python3 --version
 
 STEP2 : Kaggle configuration
